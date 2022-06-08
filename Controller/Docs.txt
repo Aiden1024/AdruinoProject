@@ -1,0 +1,2 @@
+https://forum.arduino.cc/t/transmitting-an-int-over-433mhz-rf-transmitter-reciever/586222
+https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/
